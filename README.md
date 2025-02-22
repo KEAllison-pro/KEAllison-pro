@@ -27,5 +27,3 @@ I'm a data scientist and AI/ML enthusiast with a background in business analytic
 - **GitHub Repos**: Check out my repositories for AI/ML and job search projects.
 
 💡 I'm always open to collaboration and new ideas in AI and data science!
-
---->
