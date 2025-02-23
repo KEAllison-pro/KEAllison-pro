@@ -6,7 +6,7 @@ I'm a data scientist and AI/ML enthusiast with a background in business analytic
 ## 🔍 Current Projects
 - **AI/ML Data Science Portfolio** – Exploring predictive finance and heathcare, fraud detection, and NLP.
 - **Technical Job Aggregator** – A job listing scraper and search platform with AI-powered recommendations (Phase 1 in development).
-- **AI & Ethics Writing** – Blogging about genetic enhancement, responsible AI, and pragmatic technology adoption.
+- **AI & Ethics Writing** – Blogging about responsible AI and pragmatic technology adoption.
 
 ## 🚀 Skills
 - **Languages**: Python (NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch)
