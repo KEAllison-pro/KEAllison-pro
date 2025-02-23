@@ -1,7 +1,7 @@
 - # Hi, I'm Katharine Allison (KEAllison) 👋
 
 ## About Me
-I'm a data scientist and AI/ML enthusiast with a background in business analytics and systems analyst. 
+I'm a data scientist and AI/ML enthusiast with a background in business analytics and systems analysis. 
 
 ## 🔍 Current Projects
 - **AI/ML Data Science Portfolio** – Exploring predictive finance and heathcare, fraud detection, and NLP.
